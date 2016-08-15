@@ -1,0 +1,23 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+
+.nav {
+  line-height: 50px;
+  font-weight: 300;
+  a {
+    color: #fff;
+  }
+}
+
+.main {
+  padding-top: 10px;
+}
+
+html {
+  /* To make use of full height of page*/
+  min-height: 100%;
+  margin: 0;
+}
+body {
+  min-height: 100%;
+  margin: 0;
+}
